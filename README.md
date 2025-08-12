@@ -1,2 +1,3 @@
-# robotarm
+# ROBOTARM
 TETRISBOT_ROBOTARM
+서정연, 이유나, 안정은
